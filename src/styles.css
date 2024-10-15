@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+    text-align: center;
+}
+.centerText {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    color:rgb(237, 103, 103);
+    font-size: 80px;
+}
+.container2 {
+    position:relative;
+    top: 75%;
+}
+.aboutHeader {
+    font-size:38px;
+    color:red
+}
+.aboutParagraph {
+    font-size: 34px;
+    color: coral;
+}
+.container3 {
+    position: relative;
+    bottom: 100%;
+}
